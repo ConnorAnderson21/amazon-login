@@ -1,0 +1,26 @@
+.links {
+    text-decoration: none;
+}
+
+#logo {
+    max-width: 100%;
+    
+}
+
+#new {
+    text-align: center;
+    color: darkgray;
+    margin-top: 10px;
+}
+#continue {
+    margin-top: 15px;
+}
+
+#enteremail {
+    margin-bottom: 20px;
+}
+
+#button {
+    max-width: 100%;
+    align-items: center;
+}
